@@ -1,0 +1,16 @@
+.Main{
+    margin: 20px;
+    padding: 0px;
+}
+.excel-upload-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 100px 0px;
+}
+
+.excel-upload-input{
+    border: 1px solid #333;
+    border-radius: 10px;
+    padding: 10px;
+}
